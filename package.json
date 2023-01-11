@@ -1,0 +1,17 @@
+{
+  "name": "redis-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api-benchmark": "^1.0.1",
+    "axios": "^1.2.2",
+    "express": "^4.18.2",
+    "redis": "^4.5.1"
+  }
+}
